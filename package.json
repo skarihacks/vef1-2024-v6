@@ -1,0 +1,17 @@
+{
+  "name": "vef1-2024-v5-synilausn-main",
+  "version": "1.0.0",
+  "description": "verkefni6jsonpakki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "concurrently": "^9.0.1",
+    "sass": "^1.79.4",
+    "stylelint": "^16.9.0"
+  }
+}
